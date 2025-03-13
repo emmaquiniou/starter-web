@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#file to ignore
+access.log
+log/
